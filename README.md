@@ -1,7 +1,7 @@
 # Movie-Webscraper
 WebScraper: The greatest movies of all time.
 
-**What are webscrapers?**
+**What are webscrapers?** <br>
 Suppose you want some information from a website? Let’s say a paragraph on irrigation. The most intuitive way is to search it up on google and then copy and paste it to your own file. But what if you want to get large amounts of information from a website as quickly as possible? Such as large amounts of data from a website to train a Machine Learning algorithm? And that’s when you’ll need to use Web Scraping.Unlike the long and mind-numbing process of manually getting data, Web scraping uses intelligence automation methods to get thousands or even millions of data sets in a smaller amount of time. 
 
 Empire published an article a couple of years ago, containing a list of 100 movies of all time. In an attempt to understand this deceptively complicated process of gathering data and information from a website we shall be using the Beautiful Soup module available in python which is used to derive copious amounts of data from websites by utilising the tags the data is enclosed under. 
